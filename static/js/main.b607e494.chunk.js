@@ -651,7 +651,7 @@
                                             className: "mint-live text-shadow",
                                             children: ["UNTIL ", Object(N.jsx)("span", {
                                                 className: "text-primary",
-                                                children: "6 DEC 03:00H"
+                                                children: "06 DEC 04:00H"
                                             })]
                                         }), Object(N.jsxs)("p", {
                                             className: "priceSale mt-3",
@@ -681,7 +681,7 @@
                                         }), Object(N.jsx)("div", {
                                             className: "mint-footer",
                                             children: Object(N.jsx)("p", {
-                                                children: '"Maximum 10 NFTS"'
+                                                children: 'Maximum 10 NFTS'
                                             })
                                         })]
                                     })]
